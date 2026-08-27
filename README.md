@@ -36,4 +36,4 @@ Desenvolver uma aplicação para analisar e prever a produtividade da cana-de-a�
 
 ## Estrutura do projeto
 
-A estrutura de diretórios separa dados brutos, dados tratados, scripts, notebooks, modelos, documentação e dashboard, favorecendo a reprodutibilidade e rastreabilidade do projeto.
+A estrutura de diretórios separa dados brutos, dados tratados, scripts, notebooks, modelos, documentação e dashboard, favorecendo a reprodutibilidade e rastreabilidade do projeto..
