@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run src/app/dashboard.py --server.port=$PORT --server.enableCORS=false --server.enableXsrfProtection=false
