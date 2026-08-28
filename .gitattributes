@@ -1,3 +1,2 @@
 *.parquet filter=lfs diff=lfs merge=lfs -text
 *.joblib filter=lfs diff=lfs merge=lfs -text
-data/raw/clima_multi/nasa_power_multi_municipios_diario_raw.csv filter=lfs diff=lfs merge=lfs -text
